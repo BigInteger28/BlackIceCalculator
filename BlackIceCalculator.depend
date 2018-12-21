@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527460162 source:c:\users\joris\documents\projects\blackicecalculator\main.cpp
+	<iostream>
+	<math.h>
+
